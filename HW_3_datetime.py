@@ -11,4 +11,4 @@ def get_days_from_today(date):
     except:
         print("Дата введена не коректно\nВведіть дату у форматі РРРР-ММ-ДД")
 
-get_days_from_today("2024. 02. 24")
+get_days_from_today("2024. 07. 20")
